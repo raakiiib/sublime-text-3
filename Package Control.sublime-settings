@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Bootstrap 4 Snippets",
+		"Bootstrap 4x Snippets",
+		"BracketHighlighter",
+		"Django",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"Emmet",
+		"GitGutter",
+		"gruvbox",
+		"Gruvbox Dark",
+		"HTML Boilerplate",
+		"HTML Snippets",
+		"HTML5",
+		"HTMLAttributes",
+		"Laravel Docs",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"PHPIntel",
+		"Python Checker",
+		"Python Debugger",
+		"SFTP",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimePythonIDE",
+		"Theme - Sodarized",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
